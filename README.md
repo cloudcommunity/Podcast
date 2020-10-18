@@ -12,4 +12,5 @@ A regular podcast about cloud computing, cloud native, Kubernetes, software deve
 
 - [YouTube](https://www.youtube.com/channel/UCddlOUvqF4UcM9S2uRzqROw?sub_confirmation=1)
 - SoundCloud.com
+- [iTunes](https://itunespartner.apple.com/podcasts/)
 - [Spotify](https://podcasters.spotify.com/)?
