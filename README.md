@@ -17,4 +17,4 @@ A regular podcast about cloud computing, cloud native, Kubernetes, software deve
 
 ## Jingle (suggestions)
 
-- [Digital Pop by Magix](https://www.loudly.com/tracks/magix206/digital-pop7641) (License: unknown) [Alt version](https://www.youtube.com/watch?v=_tVqp5oYyFE&ab_channel=TonyMagix).
+- [Digital Pop by Magix](https://www.loudly.com/tracks/magix206/digital-pop7641) (License: unknown) [Alt version](https://www.youtube.com/watch?v=_tVqp5oYyFE).
